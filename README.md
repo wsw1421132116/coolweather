@@ -1,12 +1,1 @@
-{
-    "HeWeather":[
-    {
-         "status":"ok",
-         "basic":{},
-         "aqi":{}
-         "now":{}
-         "suggestion":{},
-         "daily_forecast":[]
-         }
-      }
-}
+#
